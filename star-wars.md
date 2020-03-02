@@ -28,7 +28,7 @@ piloting a starship.
 
 <p class="caption">
 
-Most accomplished Star Wars pilot.
+Most accomplished Star Wars pilots.
 
 </p>
 
